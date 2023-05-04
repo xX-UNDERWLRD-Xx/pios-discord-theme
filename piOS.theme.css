@@ -16,7 +16,7 @@
 :root {
     --pios-glow-intensity:  1;
     --pios-spacing:         1;
-    --pios-accent-hue:      0;
+    --pios-accent-hue:      42;
     --pios-title-text:      "piOS v2.1.01p";
 
     --crt-stripe:   block;
